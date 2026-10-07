@@ -9,6 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-#não pode compartilhar o .env por cause da senha
+#não pode compartilhar o .env por causa da senha
 .env
 dados.db
